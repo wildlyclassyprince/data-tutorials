@@ -18,9 +18,9 @@ This repo was inspired by the section **Part II: Early Computer-Age Methods**, i
 
 ## To-Do
 
-- [ x ] Description for Bayesian Linear Regression.
-- [ x ] Description for Logistic Regression.
-- [ x ] Summary remarks.
+- [x] Description for Bayesian Linear Regression.
+- [x] Description for Logistic Regression.
+- [x] Summary remarks.
 - [ ] Scatter plot(s).
 - [ ] Regression plot(s) where possible.
-- [ x ] Script for all models. - Not fully complete.
+- [x] Script for all models. - Not fully complete.
