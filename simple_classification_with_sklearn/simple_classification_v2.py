@@ -21,11 +21,12 @@ X, y, features = iris.data, iris.target, iris.feature_names
 # Splitting the data
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2, random_state=5, shuffle=True)
 
+# Models
+model_names = ['Decision Tree', 'K-Nearest Neighbor', 'Neural Net', 'Random Forest']
+models = [DecisionTreeClassifier(), KNeighborsClassifier(), MLPClassifier(max_iter=2000), RandomForestClassifier()]
+
 # Training and testing
-for i in zip(['Decision Tree', 'K-Nearest Neighbor', 
-              'Neural Net', 'Random Forest'],
-             [DecisionTreeClassifier(), KNeighborsClassifier(),
-              MLPClassifier(max_iter=2000), RandomForestClassifier()]):
+for i in zip(model_names, models):
     name, clf = i
     clf.fit(X_train, y_train)
     y_pred = clf.predict(X_test)
