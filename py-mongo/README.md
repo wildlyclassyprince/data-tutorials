@@ -7,7 +7,7 @@ An introduction, tutorial and collection of scripts for working with Py-Mongo.
 
 ###  Installation
 
-Before installing `Py-Mongo`, we first need to install the `MongoDB`.
+Before installing `Py-Mongo`, we first need to install `MongoDB`.
 
 We can do this in Ubuntu by running the following command:
 
