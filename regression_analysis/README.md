@@ -2,10 +2,10 @@
 
 In this repo we take a look at the different types of regression and how they can be used to solve various problems. We will take a look at estimation approaches:
 
- - **Ordinary Least Squares (OLS)**
- - **Maximum Likelihood Estimation (MLE)**
- - **Bayesian (Univariate & Multivariate)**
- 
+- **Ordinary Least Squares (OLS)**
+- **Maximum Likelihood Estimation (MLE)**
+- **Bayesian (Univariate & Multivariate)**
+
  and attempt to describe them in greater detail. The regression models we describe are:
   
   1. **Linear Regression**
