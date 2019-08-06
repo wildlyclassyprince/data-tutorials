@@ -18,3 +18,5 @@ A collection of data science tutorials.
 |**Parallel Programming in Python**<br>_How does parallel programming in Python work? How do we do it? We'll use the `multiprocessing` module to demonstrate how we can carry out parallel programming in Python and how to analyse large datasets by using all of our machine cores._|
 |**Simple Classification with** `Sci-kit Learn`<br>_An introductory script illustrating the ease of carrying our a classification task with Python's [`Sci-kit Learn`](https://scikit-learn.org)._|
 |**Optimal Stopping**<br>_How do you know when to stop? Can you know when to stop? Optimal stopping theory allows us to make a decision on when to stop based on an empirical argument. That's not to say it's derived from empirical evidence, but it is established a priori._|
+|**Introduction to PySpark**<br>_Spark is implemented in Scala, a language that runs on the JVM, so how can you access all that functionality via Python? Answer: PySpark._|
+
